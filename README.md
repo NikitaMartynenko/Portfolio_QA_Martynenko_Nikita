@@ -20,3 +20,7 @@
 В проекте проведено тестирование книжного интернет-магазина, с помощью Python + Selenium Webdriver + PyTest.
 
 Ссылка на репозиторий: https://github.com/NikitaMartynenko/stepik_final_task
+
+## 4) Выполнение тестового задания с применением Python + Selenium Webdriver. 
+
+Ссылка на репозиторий: https://github.com/NikitaMartynenko/selenium_mail_test_project
